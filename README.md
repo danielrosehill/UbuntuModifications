@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/40MuIWp.png" width="1000">
+
 ** REINSTALLING *BUNTU, BUT TYPICALLY LUBUNTU WITH LXDE, FROM A CLEAN INSTALL **
 
 **** NOTES ****
@@ -15,7 +17,7 @@ As this repository is publicly accessible, I would be pleased to answer any ques
 Author: Daniel Rosehill
 git@danielrosehill.co.il
 
-<img src="https://i.imgur.com/FfR57PI.png" width="1000">
+
 
 **** FIRST STEPS & PRE-INSTALLATION ****
 
