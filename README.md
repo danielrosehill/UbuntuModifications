@@ -15,6 +15,8 @@ As this repository is publicly accessible, I would be pleased to answer any ques
 Author: Daniel Rosehill
 git@danielrosehill.co.il
 
+<img src="https://i.imgur.com/FfR57PI.png" width="1000">
+
 **** FIRST STEPS & PRE-INSTALLATION ****
 
 -> Install base system onto previous Ubuntu volume (currently SDA1).
