@@ -1,0 +1,11 @@
+** REINSTALLING *BUNTU FROM A CLEAN INSTALL **
+
+** PROGRAMS **
+
+Activity Log Manager (Zeitgeist GUI)
+Ark (work with file archives)
+Atom IDE (Atom.io)
+Boostnote
+CherryTree (hierarchial notes)
+ClipIt (clipboard manager)
+
