@@ -3,7 +3,7 @@
 # REINSTALLING *BUNTU (BUT TYPICALLY LUBUNTU WITH LXDE) FROM A CLEAN INSTALL #
 ### My configuration — documented ###
 
-Author: Daniel Rosehill
+Author: <a href="https://www.danielrosehill.co.il">Daniel Rosehill</a><br/>
 Email: git at danielrosehill dot co dot il
 
 
@@ -98,11 +98,11 @@ Create launchers from Google Chrome, open in new window, for:
 - Flameshot
 - FontForge
 - FreeCAD
-- GIMP (Vital!)
+- GIMP *Vital!*
 - gscan2pdf (PDFs from image libaries)
 - gThumb
 - ImageMagick
-- Inkscape (Vital!)
+- Inkscape *Vital!*
 - Krita
 - LibreCAD (install from website)
 - LibreOfficeDraw
@@ -137,7 +137,7 @@ Create launchers from Google Chrome, open in new window, for:
 - OnionShare (filesharing over TOR)
 - Opera
 - Otter Browser
-- pCloud (Vital!)
+- pCloud *Vital!*
 - Pidgin
 - Putty
 - Rambox
@@ -166,11 +166,11 @@ Create launchers from Google Chrome, open in new window, for:
 - Ghostwriter (distraction-free writing tool)
 - Gramps
 - LibreOffice
--- -> Calc
--- -> Draw
--- -> Impress
----> Math
--- -> Writer
+-- Calc
+-- Draw
+-- Impress
+-- Math
+-- Writer
 - Manuskript
 - NoteCase Pro
 - OCRFeeder
@@ -201,7 +201,7 @@ Maltego
 
 ## Sound ##
 - Ardour5
-- Audacity (vital!)
+- Audacity *Vital!*
 - Cheese
 - Emixer
 - Flowblade Movie Editor
@@ -213,9 +213,9 @@ Maltego
 - LMMS
 - Mixxx (very important!)
 - MusicBrainz Picard
-- Open Shot (vital!)
+- Open Shot *Vital!*
 - Parlatype
-- PulseAudio Volume Control (vital!)
+- PulseAudio Volume Control *Vital!*
 - QjackCtl
 - RecordMyDesktop
 - Rhythmbox
@@ -237,7 +237,8 @@ Maltego
 - BleachBit
 - Gparted
 - VM Virtualbox 
-- VMWare --> Pre-installation acitivity: set up Windows VM and Kali VM
+- VMWare 
+-- Pre-installation acitivity: set up Windows VM and Kali VM
 
 
 
@@ -248,6 +249,19 @@ Maltego
 - Editing LXPanel and keyboard changer (+ shortcut in UI).
 - Configure all daily automated backups on Crontab
 - Setup Timeshift and configure necessary daily backups
+
+# Downloads required # 
+
+pCloud:
+https://www.pcloud.com/download-free-online-cloud-file-storage.html
+
+VMWare Workstation Player:
+https://www.vmware.com/il/products/workstation-player/workstation-player-evaluation.html
+
+Timeshift:
+https://itsfoss.com/backup-restore-linux-timeshift/
+
+
 
 
 
