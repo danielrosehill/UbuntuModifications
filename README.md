@@ -1,8 +1,9 @@
 <img src="https://i.imgur.com/40MuIWp.png" width="1000">
 
-# REINSTALLING *BUNTU, BUT TYPICALLY LUBUNTU WITH LXDE, FROM A CLEAN INSTALL #
+# REINSTALLING *BUNTU (BUT TYPICALLY LUBUNTU WITH LXDE) FROM A CLEAN INSTALL #
+## My configuration — documented ##
 
-##NOTES ##
+## NOTES ##
 
 These instructions are intended to facilitate the reinstallation of my Ubuntu system (Lubuntu, running LXDE rather than LXQt), supplementing Bash scripts and other automated reinstallation methods as well as the configuration files contained in this Git repository. 
 
@@ -35,9 +36,9 @@ git@danielrosehill.co.il
 
 (Unimportant programs not included)
 
--Activity Log Manager (Zeitgeist GUI)
--Ark (work with file archives)
--Atom IDE (Atom.io)
+- Activity Log Manager (Zeitgeist GUI)
+- Ark (work with file archives)
+- Atom IDE (Atom.io)
 -Boostnote
 -CherryTree (hierarchial notes)
 -ClipIt (clipboard manager)
