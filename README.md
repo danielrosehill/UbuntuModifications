@@ -13,7 +13,7 @@ Email: git at danielrosehill dot co dot il
 
 * These instructions are intended to facilitate the reinstallation of my Ubuntu system (Lubuntu, running LXDE rather than LXQt), supplementing Bash scripts and other automated reinstallation methods as well as the configuration files contained in this Git repository. 
 
-* I am compiling this documentation based on my desktop installation as it runs on 27/10/19 after a very "close call" attempting to upgrade from Lubuntu 19.04 to Lubuntu 19.10 which almost broke both the package manager and my Nvidia driver. Thanks to the author of Timeshift (https://github.com/teejee2008/timeshift) for avoiding disasterDear ,
+* I am compiling this documentation based on my desktop installation as it runs on 27/10/19 after a very "close call" attempting to upgrade from Lubuntu 19.04 to Lubuntu 19.10 which almost broke both the package manager and my Nvidia driver. Thanks to the author of Timeshift (https://github.com/teejee2008/timeshift) for avoiding disaster.
 
 * (Paranthetical note to others in this position: at critical moments, restore to snapshots via the CLI rather than the GUI; this resolved the issue I was experiencing in which the Nvidia driver would not recurse to its pre-meltdown state. A less volatile restore method is, of course, favorable).
 
