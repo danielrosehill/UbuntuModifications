@@ -1,5 +1,9 @@
 ** REINSTALLING *BUNTU FROM A CLEAN INSTALL **
 
+Author: Daniel S. Rosehill Esq. 
+
+These instructions are intended to facilitate the reinstallation of my Ubuntu system, supplementing Bash scripts and other automated reinstallation methods.
+
 ** PROGRAMS **
 
 Activity Log Manager (Zeitgeist GUI)
