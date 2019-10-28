@@ -247,6 +247,10 @@ Maltego
 - Editing LXPanel and keyboard changer (+ shortcut in UI).
 - Configure all daily automated backups on Crontab
 - Setup Timeshift and configure necessary daily backups
+- Change the clock format in the digital clock LXDE panel applet to clock format %d/%m
+- Disable WiFi in network manager to force ethernet connection
+- Change the keyboard layouts and switcher
+- Change power management to disable DMPS and screen blanking.
 
 # Downloads required # 
 
