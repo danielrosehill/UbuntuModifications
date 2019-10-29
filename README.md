@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="CeO82P1T5Qsx63lUUYSShuht4HOpK3ctMArvt90S4yY" />
-
 ## REINSTALLING *BUNTU (BUT TYPICALLY LUBUNTU WITH LXDE) FROM A CLEAN INSTALL ##
 ### My configuration — documented ###
 
