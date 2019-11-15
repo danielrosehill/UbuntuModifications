@@ -1,0 +1,5 @@
+ <keybind key="Scroll_Lock">
+      <action name="Execute">
+        <command>sudo pm-suspend</command>
+      </action>
+    </keybind>

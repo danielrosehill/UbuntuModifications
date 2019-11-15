@@ -1,0 +1,5 @@
+ <keybind key="Pause">
+      <action name="Execute">
+        <command>google-chrome https://app.klenty.com/home#/app/dashboard</command>
+      </action>
+    </keybind>

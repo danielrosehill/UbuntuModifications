@@ -1,0 +1,5 @@
+  <keybind key="KP_End">
+      <action name="Execute">
+        <command>amixer set 'Master' 10%-</command>
+      </action>
+    </keybind>

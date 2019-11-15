@@ -1,0 +1,19 @@
+<!-- My volume control keybindings -->
+
+  <keybind key="KP_End">
+      <action name="Execute">
+        <command>amixer set 'Master' 10%-</command>
+      </action>
+    </keybind>
+
+ <keybind key="KP_Down">
+      <action name="Execute">
+        <command>amixer set 'Master' 10%+</command>
+      </action>
+    </keybind>
+
+<keybind key="KP_Next">
+      <action name="Execute">
+        <command>amixer -q -D pulse sset Master toggle</command>
+      </action>
+    </keybind>

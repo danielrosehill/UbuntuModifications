@@ -1,0 +1,5 @@
+<keybind key="KP_Next">
+      <action name="Execute">
+        <command>amixer -q -D pulse sset Master toggle</command>
+      </action>
+    </keybind>

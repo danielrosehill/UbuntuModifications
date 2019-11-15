@@ -1,0 +1,5 @@
+ <keybind key="grave">
+      <action name="Execute">
+        <command>xscreensaver-command -lock</command>
+      </action>
+    </keybind>
