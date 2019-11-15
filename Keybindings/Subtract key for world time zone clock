@@ -1,0 +1,5 @@
+  <keybind key="KP_Subtract">
+      <action name="Execute">
+        <command>gnome-clocks</command>
+      </action>
+    </keybind>
