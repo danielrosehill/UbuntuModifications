@@ -1,0 +1,10 @@
+    <keybind key="KP_Subtract">
+      <action name="Execute">
+        <command>xset -display :0.0 dpms force on</command>
+      </action>
+    </keybind>
+  <keybind key="KP_Multiply">
+      <action name="Execute">
+        <command>xset -display :0.0 dpms force off </command>
+      </action>
+    </keybind>
