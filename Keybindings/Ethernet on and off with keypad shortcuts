@@ -1,0 +1,10 @@
+    <keybind key="KP_Subtract">
+      <action name="Execute">
+        <command>sudo ifconfig enp4s0 up</command>
+      </action>
+    </keybind>
+  <keybind key="KP_Multiply">
+      <action name="Execute">
+        <command>sudo ifconfig enp4s0 down</command>
+      </action>
+    </keybind>
