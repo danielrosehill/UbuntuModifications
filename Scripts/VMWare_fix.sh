@@ -1,3 +1,5 @@
+# Copied from the internet - this is not my script!
+
 #!/bin/sh  
   
 #export VMWARE_USE_SHIPPED_LIBS=force  
