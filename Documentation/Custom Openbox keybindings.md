@@ -27,9 +27,9 @@ You can then open the file in your IDE of choice.
 Attaching keys to specific commands is as easy as looking up the key’s identifier. You can use the xev tool in order to do this.
 Xev will output the coordinates of your mouse movements and the identifiers of the keys that you type back into the terminal. Just make sure to type the keystrokes while the capture box is in focus:
 
-![Descriptoin](/images/1.png)
+![Description](/Documentation/images/1.png)
 
-![Descriptoin](/images/2.png)
+![Description](/Documentation/images/2.png)
 
 ## Assign Keybindings
 
