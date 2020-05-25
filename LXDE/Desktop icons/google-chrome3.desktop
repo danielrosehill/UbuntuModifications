@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Link
-Exec=google-chrome --profile-directory=1
+Exec=google-chrome --profile-directory="Profile 1"
 Name=Work
 Icon=google-chrome
 Terminal=false
