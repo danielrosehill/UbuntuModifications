@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Link
+Name=Guest
+Exec=google-chrome --guest
+Icon=google-chrome
+Terminal=false
+Type=Application
