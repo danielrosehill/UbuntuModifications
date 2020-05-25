@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Link
+Exec=google-chrome --profile-directory="Default"
+Name=Work
+Icon=google-chrome
+Terminal=false
+Type=Application
