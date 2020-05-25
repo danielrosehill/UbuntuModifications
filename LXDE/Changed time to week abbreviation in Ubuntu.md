@@ -6,15 +6,15 @@ Full documentation on how to use the date command can be found [at this link](ht
 
 In order to edit the applet, simply right click on it:
 
-![](/images/date1.png)
+![](/Images/date1.png)
 
 And then navigate to 'Digital Clock Settings':
 
-![](/images/date2.png)
+![](/Images/date2.png)
 
 You can change the setting to this:
 
-![](/images/date3.png)
+![](/Images/date3.png)
 
 Some common settings I have applied at various times are:
 
